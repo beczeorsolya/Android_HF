@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_5</string>
+    <string-array name="programozasi_nyelvek">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>Hadoop</item>
+        <item>Sap</item>
+        <item>Python</item>
+    </string-array>
+</resources>
